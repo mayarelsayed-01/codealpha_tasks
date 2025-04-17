@@ -1,6 +1,6 @@
 # 🚢 Simple Titanic Survival Prediction - Classification Notebook
 
-This is a **straightforward classification project** built in a Jupyter Notebook, using the classic Titanic dataset to predict passenger survival. It walks through the full machine learning pipeline — from data preprocessing to model evaluation — in a clean and educational format.
+This is a **straightforward classification project** built in a Jupyter Notebook, using the classic Titanic dataset to predict passenger survival. It walks through the full machine learning pipeline — from data preprocessing to model evaluation — in a clean format.
 
 ## 📌 Project Highlights
 
