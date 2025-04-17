@@ -10,7 +10,7 @@ This project demonstrates a simple Long Short-Term Memory (LSTM) model to predic
 - Built and trained an LSTM model using TensorFlow/Keras.
 - Evaluated predictions with RMSE and visualized actual vs predicted prices.
 
-> ⚠️ Note: This is a basic educational model, not for financial advice or real-world trading.
+> ⚠️ Note: This is a basic practice model, not for financial advice or real-world trading.
 
 ## 🛠️ Technologies Used
 
